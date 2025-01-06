@@ -1,4 +1,4 @@
-# Multi-Agent System with LLMs, LangChain, and LangGraph
+# Multi-Agent System with LangChain LangGraph and LLMs.
 ![Harnessing Creativity and Innovation in the Workplace (1)](https://github.com/user-attachments/assets/09049019-575a-4b6b-bf15-6f0c7998a493)
 
 ## Overview
